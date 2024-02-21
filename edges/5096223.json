@@ -1,1 +1,1 @@
-{"name": "Стримери_Twitch", "id": 5096223, "predecessors": [{"name": "Головна", "id": 13205}], "successors": []}
+{"name": "Стримери_Twitch", "id": 5096223, "predecessors": [{"name": "Головна", "id": 13205}, {"name": "Інтернет", "id": 13504}], "successors": []}

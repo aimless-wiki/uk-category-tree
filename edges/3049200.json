@@ -1,1 +1,1 @@
-{"name": "Swedish_Open", "id": 3049200, "predecessors": [{"name": "WTA_Тур", "id": 231156}, {"name": "Головна", "id": 13205}, {"name": "Розваги", "id": 188198}], "successors": []}
+{"name": "Swedish_Open", "id": 3049200, "predecessors": [{"name": "Тур_ATP", "id": 1349783}, {"name": "Тур_WTA", "id": 231156}, {"name": "Розваги", "id": 188198}], "successors": []}

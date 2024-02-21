@@ -1,1 +1,1 @@
-{"name": "WTA_Auckland_Open", "id": 2680363, "predecessors": [{"name": "WTA_Тур", "id": 231156}, {"name": "Міста_Нової_Зеландії", "id": 311007}], "successors": []}
+{"name": "WTA_Auckland_Open", "id": 2680363, "predecessors": [{"name": "Тур_WTA", "id": 231156}, {"name": "Міста_Нової_Зеландії", "id": 311007}], "successors": []}

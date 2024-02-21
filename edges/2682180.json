@@ -1,1 +1,1 @@
-{"name": "PTT_Pattaya_Open", "id": 2682180, "predecessors": [{"name": "WTA_Тур", "id": 231156}, {"name": "Головна", "id": 13205}], "successors": []}
+{"name": "PTT_Pattaya_Open", "id": 2682180, "predecessors": [{"name": "Тур_WTA", "id": 231156}, {"name": "Головна", "id": 13205}], "successors": []}

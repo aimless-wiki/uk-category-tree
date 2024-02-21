@@ -1,1 +1,1 @@
-{"name": "Cincinnati_Masters", "id": 2768148, "predecessors": [{"name": "WTA_Тур", "id": 231156}, {"name": "Головна", "id": 13205}, {"name": "Види_спорту", "id": 21459}, {"name": "Розваги", "id": 188198}], "successors": []}
+{"name": "Cincinnati_Masters", "id": 2768148, "predecessors": [{"name": "Тур_ATP", "id": 1349783}, {"name": "Тур_WTA", "id": 231156}, {"name": "Види_спорту", "id": 21459}, {"name": "Розваги", "id": 188198}], "successors": []}

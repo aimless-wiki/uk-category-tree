@@ -1,1 +1,1 @@
-{"name": "User_pt", "id": 28211, "predecessors": [{"name": "Головна", "id": 13205}], "successors": [{"name": "User_pt-1", "id": 47052}]}
+{"name": "User_pt", "id": 28211, "predecessors": [{"name": "Головна", "id": 13205}], "successors": [{"name": "User_pt-N", "id": 28212}, {"name": "User_pt-1", "id": 47052}]}

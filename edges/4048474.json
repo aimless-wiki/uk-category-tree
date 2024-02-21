@@ -1,1 +1,1 @@
-{"name": "WTA_New_Jersey", "id": 4048474, "predecessors": [{"name": "WTA_Тур", "id": 231156}, {"name": "Розваги", "id": 188198}], "successors": []}
+{"name": "WTA_New_Jersey", "id": 4048474, "predecessors": [{"name": "Тур_WTA", "id": 231156}, {"name": "Розваги", "id": 188198}], "successors": []}
