@@ -1,1 +1,1 @@
-{"name": "Бар", "id": 218621, "predecessors": [{"name": "Земля", "id": 49013}, {"name": "Головна", "id": 13205}], "successors": []}
+{"name": "Бар", "id": 218621, "predecessors": [{"name": "Земля", "id": 49013}, {"name": "Головна", "id": 13205}], "successors": [{"name": "Уродженці_Бара", "id": 595808}]}
