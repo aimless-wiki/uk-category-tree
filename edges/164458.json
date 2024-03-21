@@ -1,1 +1,1 @@
-{"name": "Гужовий_транспорт", "id": 164458, "predecessors": [{"name": "Транспорт", "id": 13463}], "successors": []}
+{"name": "Гужовий_транспорт", "id": 164458, "predecessors": [{"name": "Головна", "id": 13205}], "successors": []}
