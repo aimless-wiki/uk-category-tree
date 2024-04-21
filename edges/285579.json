@@ -1,1 +1,1 @@
-{"name": "Microsoft_Office", "id": 285579, "predecessors": [{"name": "Microsoft", "id": 211135}, {"name": "Microsoft_Windows", "id": 24814}, {"name": "Платформа_Macintosh", "id": 63235}, {"name": "Програмне_забезпечення", "id": 13547}], "successors": []}
+{"name": "Microsoft_Office", "id": 285579, "predecessors": [{"name": "Microsoft", "id": 211135}, {"name": "Microsoft_Windows", "id": 24814}, {"name": "Платформа_Macintosh", "id": 63235}, {"name": "Застосунки", "id": 2346513}], "successors": []}

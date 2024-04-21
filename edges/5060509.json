@@ -1,1 +1,1 @@
-{"name": "Браузери_для_Windows", "id": 5060509, "predecessors": [{"name": "Вебоглядачі", "id": 33996}, {"name": "Програмне_забезпечення_для_Windows", "id": 591447}], "successors": []}
+{"name": "Браузери_для_Windows", "id": 5060509, "predecessors": [{"name": "Програмне_забезпечення_для_Windows", "id": 591447}, {"name": "Вебоглядачі", "id": 33996}], "successors": []}
