@@ -1,1 +1,1 @@
-{"name": "IPhone", "id": 1616679, "predecessors": [{"name": "Смартфони", "id": 306446}, {"name": "Apple", "id": 84180}], "successors": []}
+{"name": "IPhone", "id": 1616679, "predecessors": [{"name": "IOS", "id": 1806045}, {"name": "Смартфони", "id": 306446}, {"name": "Apple", "id": 84180}], "successors": []}
