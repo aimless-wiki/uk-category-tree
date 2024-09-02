@@ -1,1 +1,1 @@
-{"name": "Ігри_для_Mac_OS", "id": 502799, "predecessors": [{"name": "Ігри_для_PC", "id": 309897}, {"name": "UNIX", "id": 886628}, {"name": "Ігри", "id": 21629}], "successors": [{"name": "Ігри_для_OS_X", "id": 1886615}]}
+{"name": "Ігри_для_Mac_OS", "id": 502799, "predecessors": [{"name": "Ігри_для_PC", "id": 309897}, {"name": "UNIX", "id": 886628}, {"name": "Відео", "id": 211711}], "successors": [{"name": "Ігри_для_OS_X", "id": 1886615}]}
