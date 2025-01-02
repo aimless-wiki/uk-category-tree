@@ -1,1 +1,1 @@
-{"name": "Акустика", "id": 15725, "predecessors": [{"name": "Земля", "id": 49013}, {"name": "Головна", "id": 13205}], "successors": []}
+{"name": "Акустика", "id": 15725, "predecessors": [{"name": "Класична_механіка", "id": 15734}], "successors": []}
